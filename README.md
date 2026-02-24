@@ -21,6 +21,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 - [Website](https://super-productivity.com/) - Official homepage.
 - [GitHub Repository](https://github.com/johannesjo/super-productivity) - Source code and issue tracker.
 - [Web App](https://app.super-productivity.com/) - Use Super Productivity directly in your browser.
+- [YouTube](https://www.youtube.com/@superproductivityapp) - Official tutorials and updates.
 
 ## Plugins
 
@@ -40,6 +41,9 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 
 ## Videos
 
+- [Official YouTube channel](https://www.youtube.com/@superproductivityapp) - Official tutorials and updates.
+- [Super Productivity: A Great FOSS To-Do List App](https://youtu.be/KUqRFSMIXck) - from "TechHut" YouTube channel.
+- [My FAVORITE Open Source App - Super Productivity](https://youtu.be/HYniWhZcre0) - from "GNULectures" YouTube channel.
 
 ## Guides & Documentation
 
